@@ -1,6 +1,7 @@
 # Force-Terminator
 [![License](https://img.shields.io/badge/license-The_Unlicense-blue.svg)](LICENSE)
 [![Build Status](https://img.shields.io/badge/build-Passing-default.svg)](https://travis-ci.org/username/project)
+
 Force terminate a program that is not responding or refuses to close. 
 
 ### Features
